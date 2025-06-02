@@ -1,0 +1,25 @@
+temperature = 13
+name = "Amar"
+#print(temperature)
+#print(name)
+print(type(temperature))
+print(type(name))
+
+
+
+x=6325896348756873465634875683746578346586348756234896528435353454354354354354334562345
+y=6523465834765073465023465763475649386534620596590348534534353453453453453453454
+#print(x+y)
+z=x^y
+print(z)
+
+
+
+
+
+
+
+
+name1 = "amar"
+surname = "bytyqi"
+print(name1 + surname)

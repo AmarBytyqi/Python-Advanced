@@ -20,6 +20,6 @@ print(z)
 
 
 
-name1 = "amar"
-surname = "bytyqi"
+name1 = "Amar"
+surname = "Bytyqi"
 print(name1 + surname)

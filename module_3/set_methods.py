@@ -22,3 +22,44 @@ print(my_list)
 
 unique_list = list(unique_set)
 print(unique_list)
+
+colors = {"green", "red", "blue"}
+color = "green"
+print(color in colors)
+print(color not in colors)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

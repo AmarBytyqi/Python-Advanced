@@ -37,8 +37,10 @@ print(content)
 # with open('example.bin', 'wb') as file:
 #     file.write(data)
 #
+#
+# with open('exe.txt', "r") as file:
+#     for line in file:
+#         cleaned_line = line.strip()
+#         print(cleaned_line)
 
-with open('exe.txt', "r") as file:
-    for line in file:
-        cleaned_line = line.strip()
-        print(cleaned_line)
+

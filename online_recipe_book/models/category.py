@@ -6,7 +6,7 @@ class CategoryBase(BaseModel):
 class CategoryCreate(CategoryBase):
     pass
 
-class CategoryReponse(baseModel):
+class CategoryReponse(BaseModel):
     id:int
     name:str
 
